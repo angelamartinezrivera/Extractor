@@ -72,18 +72,22 @@ python -m pip install pylint
 
 # Verificación de Pylint
 python -m pylint extractor_vigia.py
-
-# Preparar los archivos modificados
-git add .
-
-# Guardar con un comentario
-git commit -m "feat: avance de la función procesar_y_evaluar_dias en extractor_vigia"
-
-# Subir la rama local a GitHub
-git push -u origin extractor
 ```
 
-## 🛠️ Avance del código
+Para subir el código, se usaron los siguientes comandos:
+
+```bash
+# Preparar el archivos modificado
+git add extractor_vigia.py
+
+# Guardar con un comentario
+git commit -m "Avance de la función procesar_y_evaluar_dias en extractor_vigia"
+
+# Subir la rama a GitHub
+git push origin extractor
+```
+
+## Avance del código
 
 El código para extraer dichos datos está compuesto por las siguientes funciones:
 
