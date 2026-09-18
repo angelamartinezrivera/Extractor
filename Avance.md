@@ -14,7 +14,7 @@ En este avance, se realizó la configuración de GitHub para la rama del reposit
 
 ### Paso 1: Configuración inicial
 
-Es necesario instalar Git en el CMD y configurar la identidad del programador para que cada commit quede registrado.
+Es necesario instalar Git en el CMD y configurar los datos personales para que cada commit quede registrado.
 
 ```bash
 git config --global user.name "Tu Nombre"
