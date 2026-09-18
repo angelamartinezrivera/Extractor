@@ -2,13 +2,13 @@
 
 ## Resumen general
 
-Para la realización de este avance se utilizaron las siguientes herramientas:
+Para este avance se utilizaron las siguientes herramientas:
 
 - **Versión:** Python 3.14.3
 - **Terminal (CMD):** Para trabajar con Git (control de versiones)
 - **Editor de código:** Visual Studio Code
 
-En este proyecto, el módulo Extractor realizó un código para extraer datos como fecha, día, calles, avenidas y colonias de la información limpia proporcionada por el módulo Requests. Además, se hizo un código para extraer los links del RSS de la página de **El Vigía** y pasarlos al mismo módulo para continuar con el procesamiento de las noticias.
+En este avance, se realizó la configuración de GitHub para la rama del repositorio. Además, se desarrolló un código para extraer datos como fecha, día, calles, avenidas y colonias de las noticias de la página de **El Vigía**, así como otro código para extraer los links del RSS de la página.
 
 ## Guía y comandos de Git (paso a paso)
 
@@ -299,11 +299,11 @@ if __name__ == "__main__":
     main()
 ```
 
-### Extracción de enlaces del RSS
+### Extracción de links del RSS
 
-Posteriormente, se hizo el código para extraer los enlaces desde el RSS de **El Vigía**, el cual es: `https://www.elvigia.net/rss/feed.html?r=77`
+Posteriormente, se hizo el código para extraer los links desde el RSS de **El Vigía**, el cual es: `https://www.elvigia.net/rss/feed.html?r=77`
 
-El código guarda la lista de links de noticias recientes junto con el total de noticias en un archivo  `urls.json`.
+El código guarda la lista de links de noticias recientes en un archivo  `urls.json`.
 
 ## Errores y soluciones
 
