@@ -74,7 +74,7 @@ python -m pip install pylint
 python -m pylint extractor_vigia.py
 ```
 
-Para subir el código, se usaron los siguientes comandos:
+Para subir el archivo, se usaron los siguientes comandos:
 
 ```bash
 # Preparar el archivos modificado
