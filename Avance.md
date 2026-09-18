@@ -83,7 +83,7 @@ git add extractor_vigia.py
 # Guardar con un comentario
 git commit -m "Avance de la función procesar_y_evaluar_dias en extractor_vigia"
 
-# Subir la rama a GitHub
+# Subir a la rama en GitHub
 git push origin extractor
 ```
 
