@@ -1,4 +1,4 @@
-# Reporte de Avance Individual - Módulo Extractor "El Vigía"
+# Reporte Avance Semana 2 - Módulo Extractor "El Vigía"
 
 ## Resumen general
 
